@@ -327,7 +327,7 @@ font-family: Lato;
 color:  #777777;
 font-size: 15.99px;/* Приближение из-за подстановки шрифтов */
 font-weight: 900;
-line-height: 9.895px;/* Приближение из-за подстановки шрифтов */
+line-height: 30px;/* Приближение из-за подстановки шрифтов */
 text-align: left;
 text-transform:uppercase;
 width:100%;
