@@ -1291,9 +1291,9 @@ position: relative;
 
 
 @media screen and (max-width:1360px){
-	.bromo .description{
+	 .description{
 		justify-content: flex-start;
-	width:70%;
+	min-width:100%;
 }
 
 .formsend form .inputs input[type="text"]:nth-child(3){
@@ -1322,7 +1322,10 @@ width:80%;}
 				margin-top: 20px;
 				line-height: 29px;
 				display: none;
-			}
+				}
+			.paragraph p{line-height: 20px;}	
+
+				
 }
 @media screen and (max-width:1210px){
 	
@@ -1451,8 +1454,9 @@ text-align: center;}
 
 .paragraph{width: 90%;
 	height: 100px;}
-.paragraph p{height: 100px;
-	line-height: 20px;
+.paragraph p{height: 200px;
+	line-height: 40px;
+
 }
 .heaven{flex-direction:column-reverse;
 	height:880px;
@@ -1546,3 +1550,4 @@ width: 100%;}
 				width:60px;
 				padding:1px;}
 		}
+
