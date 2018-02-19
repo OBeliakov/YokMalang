@@ -1,0 +1,27 @@
+@font-face{
+	font-family: "RBNo2";
+	src:url("../fonts/RBNo2/RBNo2Light.otf")  format("opentype");
+	src:url("../fonts/RBNo2/RBNo2Light_a.otf")  format("opentype");
+	font-style:normal;
+	font-weight: normal;
+}
+@font-face{
+	font-family: "Cambria";
+	src:url(../fonts/Cambria/cambria.ttf) format("truetype")
+	
+	font-style:normal;
+	font-weight: normal;
+}
+@font-face{
+	font-family: "TrajanPro";
+	src:url(../fonts/TrajanProRegular/TrajanProRegular.ttf) format("truetype")
+	
+	font-style:normal;
+	font-weight: normal;
+}
+
+@font-face {
+    font-family: 'ChunkFive Regular';
+    src: url(../fonts/chunkfive/Chunk.otf) format('opentype');
+    
+}
