@@ -625,6 +625,7 @@ background-position: 10px center  ;
 display: flex;
 justify-content: space-around;
 align-items:center;
+padding-left:15px;
 
 }
 .lines{
@@ -1355,6 +1356,8 @@ text-align: center;}
 .image{margin:auto;
 
 width: 450px;}
+.mtbromo {padding-left:60px; } 
+.batucity{padding-left:50px;}
 }
 	
 
