@@ -1326,7 +1326,7 @@ width:80%;}
 				}
 			.paragraph p{line-height: 20px;}	
 
-				
+	.btn input[type="submit"]{margin:10px auto;}				
 }
 @media screen and (max-width:1210px){
 	
